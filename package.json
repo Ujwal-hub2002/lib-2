@@ -1,7 +1,6 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "http://Ujwal-hub2002.github.io/lib-1",
   "private": true,
   "proxy": "http://localhost:2000",
   "dependencies": {
